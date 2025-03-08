@@ -1,1 +1,1 @@
-This is a new file from IDE VScode
+deleting one line and adding a new line
